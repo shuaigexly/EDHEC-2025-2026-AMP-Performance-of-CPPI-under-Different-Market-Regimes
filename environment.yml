@@ -1,0 +1,14 @@
+name: cppi
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - yfinance
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
+      - scipy
+      - statsmodels
+      - openpyxl
+      - scikit-learn
